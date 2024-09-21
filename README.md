@@ -87,6 +87,15 @@ Contribuições são bem-vindas! Para contribuir com o projeto:
 
 ---
 
+## 🌐 **Veja o Projeto Final**
+
+Você pode visualizar o projeto final através do seguinte link:
+
+[Projeto Final do PlanejeJá](https://www.canva.com/design/DAGRPFPeTSY/D8Ei1S2lOZmLEZei-Yw-uw/view?utm_content=DAGRPFPeTSY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
+---
+
 ## 📬 **Entre em Contato**
 
 Se você tiver alguma dúvida, sugestão ou feedback, entre em contato:
